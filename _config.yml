@@ -14,11 +14,11 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
-url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
+title: BSides Munich 2018
+subtitle: "A free security conference in the heart of Bavaria"
+url: "http://bsidesmunich.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: ""
+baseurl: "/bsmuc18"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
